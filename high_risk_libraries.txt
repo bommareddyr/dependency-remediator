@@ -1,0 +1,10 @@
+# One group prefix per line. Minor-version changes to these always need human approval.
+org.springframework
+org.hibernate
+jakarta.
+javax.
+io.netty
+org.apache.tomcat
+io.grpc
+com.google.protobuf
+org.glassfish.jersey
